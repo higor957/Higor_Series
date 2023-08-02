@@ -1,0 +1,16 @@
+C:\Users\higor\source\repos\HigorSeries\bin\Debug\net5.0\HigorSeries.exe
+C:\Users\higor\source\repos\HigorSeries\bin\Debug\net5.0\HigorSeries.deps.json
+C:\Users\higor\source\repos\HigorSeries\bin\Debug\net5.0\HigorSeries.runtimeconfig.json
+C:\Users\higor\source\repos\HigorSeries\bin\Debug\net5.0\HigorSeries.runtimeconfig.dev.json
+C:\Users\higor\source\repos\HigorSeries\bin\Debug\net5.0\HigorSeries.dll
+C:\Users\higor\source\repos\HigorSeries\bin\Debug\net5.0\ref\HigorSeries.dll
+C:\Users\higor\source\repos\HigorSeries\bin\Debug\net5.0\HigorSeries.pdb
+C:\Users\higor\source\repos\HigorSeries\obj\Debug\net5.0\HigorSeries.csproj.AssemblyReference.cache
+C:\Users\higor\source\repos\HigorSeries\obj\Debug\net5.0\HigorSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\higor\source\repos\HigorSeries\obj\Debug\net5.0\HigorSeries.AssemblyInfoInputs.cache
+C:\Users\higor\source\repos\HigorSeries\obj\Debug\net5.0\HigorSeries.AssemblyInfo.cs
+C:\Users\higor\source\repos\HigorSeries\obj\Debug\net5.0\HigorSeries.csproj.CoreCompileInputs.cache
+C:\Users\higor\source\repos\HigorSeries\obj\Debug\net5.0\HigorSeries.dll
+C:\Users\higor\source\repos\HigorSeries\obj\Debug\net5.0\ref\HigorSeries.dll
+C:\Users\higor\source\repos\HigorSeries\obj\Debug\net5.0\HigorSeries.pdb
+C:\Users\higor\source\repos\HigorSeries\obj\Debug\net5.0\HigorSeries.genruntimeconfig.cache
